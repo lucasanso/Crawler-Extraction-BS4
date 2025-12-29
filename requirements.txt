@@ -1,0 +1,9 @@
+bs4
+unidecode
+pandas
+re
+pytz
+pandas
+requests
+pprint
+streamlit
