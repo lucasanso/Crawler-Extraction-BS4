@@ -21,13 +21,12 @@ pip install -r requirements.txt
 
 ---
 
-## Execução e Demonstração
+## Execução
 
-Ao executar o script principal, você verá o progresso da extração em tempo real:
+Para iniciar o crawler, basta executar o comando abaixo no terminal
 
 ```text
 $ python app.py
-
 ```
 
 ## Detalhes do ETL
